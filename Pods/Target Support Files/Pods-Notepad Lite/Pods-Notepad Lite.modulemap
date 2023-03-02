@@ -1,0 +1,6 @@
+framework module Pods_Notepad_Lite {
+  umbrella header "Pods-Notepad Lite-umbrella.h"
+
+  export *
+  module * { export * }
+}
