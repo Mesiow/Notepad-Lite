@@ -18,10 +18,6 @@ class NoteCell: SwipeTableViewCell {
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code
-        //self.layer.borderColor = UIColor.systemTeal.cgColor;
-        //self.layer.cornerRadius = 8;
-        //self.layer.borderWidth = 0.4;
-        //self.frame = CGRectOffset(self.frame, 10, 10);
         self.accessoryType = .disclosureIndicator;
     }
 

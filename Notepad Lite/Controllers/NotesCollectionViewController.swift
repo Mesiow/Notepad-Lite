@@ -79,7 +79,6 @@ class NotesCollectionViewController: SwipeTableViewController {
     
     //CoreData Methods
     func loadNotesData(with request: NSFetchRequest<Note> = Note.fetchRequest()){
-        print("load notes");
         do {
             notes = try context.fetch(request);
         }catch{
