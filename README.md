@@ -44,8 +44,6 @@
 * Live searching via the search bar
 
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- CONTRIBUTING -->
